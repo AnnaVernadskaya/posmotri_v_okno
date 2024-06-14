@@ -11,6 +11,7 @@ html {
 .page {
   inline-size: 1200px;
   block-size: 100%;
+  block-size: 800px;
   margin: auto;
   padding: 133px 30px;
   color: #fff;
