@@ -212,10 +212,6 @@ ol {
   position: relative;
 }
 
-.preloader {
-  position: absolute;
-}
-
 .content__list-item {
   margin-bottom: 30px;
 }
