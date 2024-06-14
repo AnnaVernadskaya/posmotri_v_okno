@@ -289,8 +289,8 @@ ol {
 
 .search-form__checkbox[type='checkbox']:checked + span::after {
   content: '';
+  margin: auto;
   width: 15px;
   height: 15px;
   background-color: #fff;
-  margin: auto;
-}
+} 
