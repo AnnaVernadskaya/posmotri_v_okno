@@ -225,9 +225,11 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 30px;
+  width: 100%;
 }
 
 .content__list-item {
+  width: 100%;
 }
 
 .content__card-link {
@@ -256,7 +258,7 @@ ol {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  max-width: 390px;
+  width: 100%;
 }
 
 .content__video-card-description-container {
@@ -265,7 +267,9 @@ ol {
   flex-direction: column;
   gap: 4px;
   width: 100%;
+  width: calc(100% - 190px);
 }
+
 .content__video-card-description {
   line-height: 16.2px;
 }
@@ -296,6 +300,7 @@ ol {
   height: 103px;
   object-fit: cover;
   object-position: center;
+  flex-shrink: 0;
 }
 
 .more-button {
