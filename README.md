@@ -2,4 +2,4 @@
 
 Одностраничный сайт с видеопроигрывателем. 
 
-* [Ссылка проекта на GitHub]()
+* [Ссылка проекта на GitHub](https://annavernadskaya.github.io/posmotri_v_okno/index.html)
